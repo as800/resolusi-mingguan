@@ -4,3 +4,4 @@ Minggu Kedua
 - membaca buku minimal 2 bab
 - minum kopi maksimal 5x
 - pengeluaran tidak lebih dari 500rb
+- one day one function
