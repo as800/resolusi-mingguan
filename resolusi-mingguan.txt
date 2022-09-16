@@ -6,3 +6,4 @@ Minggu Kedua
 - pengeluaran tidak lebih dari 500rb
 - one day one function
 - bangun pagi" sebelum jam 5
+- mainum anget" sebelum berangkat kantor
